@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarccasm0
 - 👀 I’m interested in videogames and all the tec stuff behind it
-- 🌱 I’m currently Javascript:alien:
+- 🌱 I’m currently Javascript :alien:
 - 📫 How to reach me,twitter: @JeffersonARodr1
 
 <!---
